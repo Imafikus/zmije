@@ -1,0 +1,1 @@
+DEFAULT_DATA_PATH = 'data'
